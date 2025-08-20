@@ -1,0 +1,14 @@
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\bin\Debug\net8.0\ejercicio C#.exe
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\bin\Debug\net8.0\ejercicio C#.deps.json
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\bin\Debug\net8.0\ejercicio C#.runtimeconfig.json
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\bin\Debug\net8.0\ejercicio C#.dll
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\bin\Debug\net8.0\ejercicio C#.pdb
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\obj\Debug\net8.0\ejercicio C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\obj\Debug\net8.0\ejercicio C#.AssemblyInfoInputs.cache
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\obj\Debug\net8.0\ejercicio C#.AssemblyInfo.cs
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\obj\Debug\net8.0\ejercicio C#.csproj.CoreCompileInputs.cache
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\obj\Debug\net8.0\ejercicio C#.dll
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\obj\Debug\net8.0\refint\ejercicio C#.dll
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\obj\Debug\net8.0\ejercicio C#.pdb
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\obj\Debug\net8.0\ejercicio C#.genruntimeconfig.cache
+C:\Users\Veronica\OneDrive\Escritorio\ejercicio C#\obj\Debug\net8.0\ref\ejercicio C#.dll
