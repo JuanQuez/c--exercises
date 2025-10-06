@@ -31,8 +31,7 @@
 //     age = sbyte.Parse(Console.ReadLine());
 // } while (age != sentinel_parameter_age);
 
-
-// array 
+// array
 // array - list (string - numbers) - dictionaries
 // string[] names = { "Ana", "Maria", "Jose", "Adres" };
 // foreach (var name in names)
@@ -48,7 +47,7 @@
 // names.Add()
 // names.Add("Ana");
 // names.Add("Maria");
-// names.Add("Jose"); 
+// names.Add("Jose");
 // names.Add("Andres");
 
 // foreach (string name in names)

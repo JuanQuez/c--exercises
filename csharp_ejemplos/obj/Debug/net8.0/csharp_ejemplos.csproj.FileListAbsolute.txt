@@ -1,0 +1,28 @@
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.exe
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.deps.json
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.runtimeconfig.json
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.dll
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.pdb
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.AssemblyInfoInputs.cache
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.AssemblyInfo.cs
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.dll
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\refint\csharp_ejemplos.dll
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.pdb
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.genruntimeconfig.cache
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\ref\csharp_ejemplos.dll
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.AssemblyInfoInputs.cache
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.AssemblyInfo.cs
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.dll
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\obj\Debug\net8.0\refint\csharp_ejemplos.dll
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.pdb
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.exe
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.deps.json
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.runtimeconfig.json
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.dll
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.pdb
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.genruntimeconfig.cache
+C:\Users\JuanQuezDev\Escritorio\exercises c#\Csharp_OOP_exercises\csharp_ejemplos\obj\Debug\net8.0\ref\csharp_ejemplos.dll

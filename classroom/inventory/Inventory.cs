@@ -1,38 +1,38 @@
-public class Inventario
+public class Inventory
 {
-    private Dictionary<string, Producto> productos = new Dictionary<string, Producto>();
+    private Dictionary<string, Product> products = new Dictionary<string, Product>();
 
-    public void VerInventario()
+    public void ViewInventory()
     {
-        Console.WriteLine("\nInventario actual:");
-        foreach (var prod in productos.Values)
+        Console.WriteLine("\nCurrent inventory:");
+        foreach (var prod in products.Values)
         {
-            Console.WriteLine($"Producto: {prod.Nombre}, Cantidad: {prod.Cantidad}");
+            Console.WriteLine($"Product: {prod.Name}, Quantity: {prod.Quantity}");
         }
     }
 
-    public void AgregarProducto(string nombre, int cantidad)
+    public void AddProduct(string name, int quantity)
     {
-        if (productos.ContainsKey(nombre))
-            productos[nombre].Agregar(cantidad);
+        if (products.ContainsKey(name))
+            products[name].Add(quantity);
         else
-            productos.Add(nombre, new Producto(nombre, cantidad));
+            products.Add(name, new Product(name, quantity));
 
-        Console.WriteLine("Producto agregado correctamente.");
+        Console.WriteLine("Product added successfully.");
     }
 
-    public void RetirarProducto(string nombre, int cantidad)
+    public void RemoveProduct(string name, int quantity)
     {
-        if (productos.ContainsKey(nombre))
+        if (products.ContainsKey(name))
         {
-            if (productos[nombre].Retirar(cantidad))
-                Console.WriteLine("Producto retirado correctamente.");
+            if (products[name].Remove(quantity))
+                Console.WriteLine("Product removed successfully.");
             else
-                Console.WriteLine("No hay suficiente stock para retirar esa cantidad.");
+                Console.WriteLine("Not enough stock to remove that quantity.");
         }
         else
         {
-            Console.WriteLine("El producto no existe en el inventario.");
+            Console.WriteLine("The product does not exist in the inventory.");
         }
     }
 }

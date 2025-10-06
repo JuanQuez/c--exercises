@@ -55,7 +55,7 @@
 
 //&& EXAMPLE 3
 
-Console.WriteLine("Satisfaction Survey | Fallout 4");
+/* Console.WriteLine("Satisfaction Survey | Fallout 4");
 
 Console.Write("How satisfied are you with the game? (1-5): ");
 int satisfactionGame = int.Parse(Console.ReadLine());
@@ -159,4 +159,11 @@ while (!salir)
             break;
     }
 }
-Console.WriteLine("¡Hasta luego!");
+Console.WriteLine("¡Hasta luego!"); */
+
+// Instanciar class (create an object of a class)
+AritmeticOperation op1 = new AritmeticOperation();
+op1.Number1 = n1;
+op1.Number2 = n2;
+op1.PrintSum();
+op1.restOp();
